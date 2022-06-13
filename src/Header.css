@@ -1,0 +1,59 @@
+body{
+    margin: auto;
+}
+.header{
+    min-height:70px;
+    width:100%;
+    background-color:#f3f0ee;
+}
+
+#brand{
+    font-size:30px;
+    color:rgb(16, 15, 15);
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+#brand > a{
+    text-decoration: none;
+}
+
+#social{
+    float: left;
+    margin-left: 68%;
+    /* margin-top: 10px; */
+}
+.socialImg{
+    height:50px
+}
+
+body{
+    margin: auto;
+}
+.header{
+    height:70px;
+    width:100%;
+    background-color:#f3f0ee;
+}
+
+#brand{
+    font-size:30px;
+    color:rgb(42, 42, 42);
+    float: left;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+#social{
+    float: left;
+    margin-left: 68%;
+    margin-top: -31px;
+}
+.socialImg{
+    height:50px
+}
+
+.homeBtn{
+    margin-top:1%;
+    margin-left:1%
+}

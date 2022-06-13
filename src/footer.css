@@ -1,0 +1,11 @@
+.footer{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    position: relative;
+    overflow: hidden;
+    margin-top: 5%;
+}
+.footer > h3{
+    color:white;
+}
